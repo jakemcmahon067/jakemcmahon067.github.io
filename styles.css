@@ -8,13 +8,13 @@ body {
 header {
     background: #35424a;
     color: #ffffff;
-    padding: 20px 0;
+    padding: 10px 0;
     text-align: center;
 }
 
 nav {
     background: #007bff;
-    padding: 10px 0;
+    padding: 5px 0;
 }
 
 nav ul {
@@ -51,5 +51,5 @@ footer {
     color: white;
     position: relative;
     bottom: 0;
-    width: 100%;
+    width: 50%;
 }
