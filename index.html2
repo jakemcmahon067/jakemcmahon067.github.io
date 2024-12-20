@@ -1,1 +1,51 @@
-<!DOCTYPE.html >
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Learn more about our travel guide website and what you can explore.">
+    <title>About Us - Countries Worth Traveling To</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>About Us</h1>
+        <h2>Your Guide to the Best Travel Destinations</h2>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="index.html#italy">Italy</a></li>
+            <li><a href="index.html#greece">Greece</a></li>
+            <li><a href="index.html#edinburgh">Edinburgh, Scotland</a></li>
+            <li><a href="about.html">About Us</a></li>
+        </ul>
+    </nav>
+    
+    <main>
+        <section>
+            <h2>Welcome to Our Travel Guide</h2>
+            <p>We are passionate about travel and believe that exploring new countries enriches our lives. Our website offers a comprehensive guide to some of the most beautiful and culturally significant destinations around the world.</p>
+            
+            <h3>What We Offer:</h3>
+            <ul>
+                <li>Detailed overviews of each destination</li>
+                <li>Recommendations for must-visit places</li>
+                <li>Insights into local cuisine and culture</li>
+                <li>Travel tips and advice</li>
+            </ul>
+            
+            <h3>Understanding Your Travel Needs</h3>
+            <p>Whether you’re a history buff, a foodie, or simply someone looking to relax on a beach, we aim to guide you through the best experiences each country has to offer. Our goal is to inspire you to embark on your next adventure.</p>
+            
+            <h3>Join Us</h3>
+            <p>Explore our website to find detailed sections on Italy, Greece, and Edinburgh, Scotland. Don't forget to check back often for new content and suggestions. Happy traveling!</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Countries Worth Traveling To. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
